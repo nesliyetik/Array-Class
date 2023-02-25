@@ -1,0 +1,15 @@
+C:\Pratikler\diziarraysinifimetodlari\obj\Debug\net7.0\diziarraysinifimetodlari.csproj.AssemblyReference.cache
+C:\Pratikler\diziarraysinifimetodlari\obj\Debug\net7.0\diziarraysinifimetodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pratikler\diziarraysinifimetodlari\obj\Debug\net7.0\diziarraysinifimetodlari.AssemblyInfoInputs.cache
+C:\Pratikler\diziarraysinifimetodlari\obj\Debug\net7.0\diziarraysinifimetodlari.AssemblyInfo.cs
+C:\Pratikler\diziarraysinifimetodlari\obj\Debug\net7.0\diziarraysinifimetodlari.csproj.CoreCompileInputs.cache
+C:\Pratikler\diziarraysinifimetodlari\bin\Debug\net7.0\diziarraysinifimetodlari.exe
+C:\Pratikler\diziarraysinifimetodlari\bin\Debug\net7.0\diziarraysinifimetodlari.deps.json
+C:\Pratikler\diziarraysinifimetodlari\bin\Debug\net7.0\diziarraysinifimetodlari.runtimeconfig.json
+C:\Pratikler\diziarraysinifimetodlari\bin\Debug\net7.0\diziarraysinifimetodlari.dll
+C:\Pratikler\diziarraysinifimetodlari\bin\Debug\net7.0\diziarraysinifimetodlari.pdb
+C:\Pratikler\diziarraysinifimetodlari\obj\Debug\net7.0\diziarraysinifimetodlari.dll
+C:\Pratikler\diziarraysinifimetodlari\obj\Debug\net7.0\refint\diziarraysinifimetodlari.dll
+C:\Pratikler\diziarraysinifimetodlari\obj\Debug\net7.0\diziarraysinifimetodlari.pdb
+C:\Pratikler\diziarraysinifimetodlari\obj\Debug\net7.0\diziarraysinifimetodlari.genruntimeconfig.cache
+C:\Pratikler\diziarraysinifimetodlari\obj\Debug\net7.0\ref\diziarraysinifimetodlari.dll
